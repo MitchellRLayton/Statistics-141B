@@ -1,3 +1,5 @@
 ## Homework/Projects
 
-Homeworks and school related projects for Statistics 141B.
+Homeworks listed as "hw*.ipynb"
+
+Final Project coming soon
