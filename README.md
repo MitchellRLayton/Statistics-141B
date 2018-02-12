@@ -1,5 +1,5 @@
-# 141b-HW2
+# 141b-HW3
 
-Due Fri 1/26 at 11:59 pm
+Due SUN 2/4 at 11:59 pm
 
-Modify hw2.ipynb, DO NOT CREATE A NEW FILE.  You can just add your answers as cells.  Don't forget to git add and commit, and doublecheck that your current solution are pushed to the repo.
+Modify hw3.ipynb, DO NOT CREATE A NEW FILE.  You can just add your answers as cells.  Don't forget to git add and commit, and doublecheck that your current solution is pushed to the repo.
